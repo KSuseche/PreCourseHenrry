@@ -1,2 +1,1 @@
-# PreCourseHenrry
-Este es un repo de prueba 
+Este proyecto es una prueba de como crear un repo y como clonarlo a mi repo local 
